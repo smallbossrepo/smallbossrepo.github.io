@@ -1,0 +1,12 @@
+Origin: Smallboss
+Label: Smallboss
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Completely Free Themes And More!
+
+SHA256:
+ 2b0cdf1be9c27ce288d145f246a467e2d17431c215ef39c51205c0360b204552 1035 Packages.bz2
+ 5b05570828a58043980c81edc0def89d8ef3c2823bda3ff52bfa6624920e8be3 944 Packages.xz
