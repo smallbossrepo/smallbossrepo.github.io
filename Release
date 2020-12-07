@@ -5,8 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Completely Free Themes And More!
+Description: Collections Of Completely Free Themes And Tweaks!
 
 SHA256:
- 471f7bf81cc5e87f22b1bfaed8c9b9e9b7ae8fd1b70721f3051bdd24c8012696 1062 Packages.bz2
- 0c2827ae13f40f984bfc34775d69c343592f7739cbb865b566913551357d2d08 972 Packages.xz
+ efde977da8ab0beefa8f515f55fd18ff59bd8d2d4484d54aac139a4956a90f10 629 Packages.bz2
+ 8ef61868e0a66bae82afb86ccca4baa3221b275364d8042d328d75881fc34d21 604 Packages.xz
